@@ -11,10 +11,11 @@ Say you are a medical professional working in West Africa for a Doctors Without 
 * [Questions](#questions)
 
 ## Installation 
-Deployed: https://cartersreactportfolio.herokuapp.com/
+Deployed: https://carters-pwa-budget-tracker.herokuapp.com/
 From Local: npm i
             npm start
 ## Usage 
+Deposit or withdrawl sums to keep track of spending and keep a budget even when out of range of internet access.
 Full Demonstration:
 https://watch.screencastify.com/v/QidEVuERGvDPrnqF8Pc6
 
